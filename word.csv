@@ -1,0 +1,284 @@
+Network Systems
+Internet
+Packet Processing
+Network Speed
+Packet
+Connection-oriented
+Connectionless
+Monitoring
+Control Systems
+Protocols
+Layering
+Ethernet
+Internet Protocol
+Ethernet Frame Format
+Ethernet Addresses
+Ethernet Type Field
+IP Datagram
+Ip Addresses
+Transport layer
+Internet layer
+Physical Layer
+Network interface layer
+UDP
+TCP
+UDP Datagram
+TCP Segment
+Demultiplexing
+Encapsulation
+Transmission
+Address resolution Protocol
+Bus
+Bus address space
+fetch-store paradigm
+NIC Optimization
+unicast recognition
+broadcast recognition
+unicast filtering
+broadcast filtering
+multicast recognition
+broadcast filtering
+onboard packet buffering
+packet buffering
+direct memory access
+data flow diagram
+promiscuous mode
+resource exhaustion
+packet buffer allocation
+packet buffer size
+packet buffer copying
+protocol layering
+protocol copying
+network byte order
+heterogeneity network
+bridge algorithm
+table lookup
+hashing
+Ip datagram fragmentation
+Ip datagram reassembly
+ip datagram flags field
+fragment offset field
+ip fragmantation algorithm
+fragmenting a fragment
+ip reassembly
+grouping fragments
+fragment position
+ip reassembly algorithm
+ip datagram forwarding
+ip forwarding algorithm
+high-speed ip forwarding
+tcp connection recognition algorithm
+tcp splicing algorithm
+packet forwarding
+address lookup
+error detection
+error correction
+fragmentation
+segmentation
+reassembly
+frame demultiplexing
+protocol demultiplexing
+packet classification
+queueing
+packet discard
+packet prority mechanisms
+packet scheduling
+packet timing
+packet authentication
+packet privacy
+traffic measurement
+traffic poilicing
+perflow policing
+aggeregate poilicing
+constant bit rate
+variable bit rate
+avalable bit rate
+unspecified bit rate
+traffic shaping
+traffic management
+timer management
+fast packet processing
+software interupts
+software priorities
+kernel threads
+multiple prorities
+thread synchronization
+thread per layer
+thread per protocol
+timer management thread
+thread per packet
+asynchronous programming
+synchronous programming
+network artchitecture
+software router
+aggregate data rate
+aggregate packet rate
+packet rate
+router feasiblity
+single cpu bottleneck
+fine-grain parallelism
+symmetric coarse-grain parallelism
+asymmetric coarse-grain parallelism
+coprocessor
+special-purpose coprocessors
+asic coprocessors
+onboard processing
+smart nic
+onboard stack
+data pipelines
+classification of rule set
+classification of variable-size header
+fine-grain flow creation
+flow forwarding
+second generation network systems
+embeded processors in second generation systems
+forwarding chips
+classification chips
+bandiwidth of fast path
+switching fabrics
+synchronous fabrics
+asynchronous fabrics
+port contention
+crossbar architecture
+basic queueing
+shared data path
+shared bus
+shared memory
+multistage fabrics
+banyan architecture
+scaling banyan
+agere pI40
+agere fabric
+capacity of agere fabric
+cpu in second generation
+third generation network
+risc
+cisc
+custom silicon
+network processor
+flexibility of processor
+instruction set
+scalability with parallelism
+scalability with pipelining
+costs and benefits of network processors
+network processor functionality
+packet processing functions
+ingress processing
+egress processing
+network processor design
+processor hierarchy
+memory hierarchy
+internal transfer mechanisms
+external interface mechanisms
+polling and notification
+concurrent execution
+dispatch mechanisms
+implicit parallelism
+explicit parallelism
+packet flow
+clock rate
+processing hierarchy
+high-speed processor
+number of processor
+processor type
+memory size
+memory bandwidth
+memory types
+memory caches
+content addressable memory
+alchemy
+augmented risc processor
+embeded processor plus coprocessor
+amcc
+pipeline of homogenous processors
+pipeline of hetergenous processors
+cisco
+ezchip
+extensive processor
+diverse processors
+hifn
+homogenous parallel processors plus controller
+intel
+flexible risc plus coprocessor
+motorola
+extremely long homogenous pipeline
+xelerated
+programmable processor
+processing speed
+processor development cost
+processor performance
+processor data rate
+processor bursts
+per-interface rate
+lookaside
+flow-through
+uniform pipline
+synchronized pipline
+packet ordering
+stateful classification
+pin count
+three-way tradeoff
+multithreading
+processor throughput
+blind forwarding
+agere terminology
+agere payloadplus
+first generation agere
+second generation agere
+app550
+pci bus interface
+scheduling interface
+coprocessor interface
+high-speed full duplex operation
+underlying complexity
+pattern processing engine
+pdu assembler
+recorder buffer
+state engine
+traffic manager
+stream editor
+agere refrence system
+system performance analyzer
+hardware development software
+hds bootstrap
+first pass processing
+second pass processing
+dotted decimal patterns
+longest prefix match
+ordered virtual function
+state engine control
+status registers
+state engine memory
+ASI functions
+policing engine
+c-np language
+flow policing
+unified packet discard algorithm
+wred
+cbr shaping
+vbr shaping
+bandwidth allocation
+packet switching
+fixed allocation
+proportional allocation
+smoothed deficit weighted round robin
+hierarchy of queues
+external host processor
+external processor
+packet exchange
+slow path packet transfer
+isp access node
+differentiated services
+diffserv
+flow id
+coloring processor
+packet marking
+converged networks
+framing
+parsing
+packet modification
+packet compression
+packet encryption
+qos of processor
+class of service
+qos mechanisms
